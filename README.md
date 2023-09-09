@@ -1,2 +1,2 @@
 # SystemsAnalysisProjectMM
-Project for SChool
+Project for School
